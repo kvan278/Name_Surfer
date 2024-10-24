@@ -1,4 +1,4 @@
-# Name_Surfer
+# Name Surfer
 
 Name Surfer is a Java program designed to analyze and visualize the popularity of baby names over multiple decades using data from the Social Security Administration (SSA). The application allows users to search for specific names and view their historical ranking.
 
